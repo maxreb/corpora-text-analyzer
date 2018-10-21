@@ -6,6 +6,9 @@
 *.user
 *.userosscache
 *.sln.docstates
+example/
+database/
+2018-10-21-Test-Datei-für-Max.csv
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
